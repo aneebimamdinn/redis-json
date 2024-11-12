@@ -1,0 +1,250 @@
+[
+  {
+    "ProductID": "P002",
+    "Name": "Milk",
+    "Description": "Fresh whole milk",
+    "Price": 10,
+    "Category": "Dairy",
+    "Brand": "MilkFarm"
+  },
+  {
+    "ProductID": "P004",
+    "Name": "Smartphone",
+    "Description": "Latest model with 128GB storage",
+    "Price": 90,
+    "Category": "Electronics",
+    "Brand": "PhoneX"
+  },
+  {
+    "ProductID": "P006",
+    "Name": "Shampoo",
+    "Description": "Moisturizing shampoo for dry hair",
+    "Price": 15,
+    "Category": "Personal Care",
+    "Brand": "HairCare"
+  },
+  {
+    "ProductID": "P007",
+    "Name": "Biscuits",
+    "Description": "Crunchy biscuits with chocolate chips",
+    "Price": 5,
+    "Category": "Snacks",
+    "Brand": "CrunchTime"
+  },
+  {
+    "ProductID": "P009",
+    "Name": "Air Conditioner",
+    "Description": "Energy-efficient air conditioner with smart controls",
+    "Price": 100,
+    "Category": "Home Appliances",
+    "Brand": "CoolAir"
+  },
+  {
+    "ProductID": "P011",
+    "Name": "Tennis Racket",
+    "Description": "Lightweight racket with comfortable grip",
+    "Price": 50,
+    "Category": "Sports",
+    "Brand": "SportMaster"
+  },
+  {
+    "ProductID": "P013",
+    "Name": "Blender",
+    "Description": "High-speed blender for smoothies and shakes",
+    "Price": 60,
+    "Category": "Kitchen Appliances",
+    "Brand": "BlendMax"
+  },
+  {
+    "ProductID": "P014",
+    "Name": "Backpack",
+    "Description": "Durable backpack with multiple compartments",
+    "Price": 30,
+    "Category": "Accessories",
+    "Brand": "TravelGear"
+  },
+  {
+    "ProductID": "P019",
+    "Name": "Electric Kettle",
+    "Description": "Fast boiling electric kettle with auto-shutoff",
+    "Price": 25,
+    "Category": "Kitchen Appliances",
+    "Brand": "KettleKing"
+  },
+  {
+    "ProductID": "P020",
+    "Name": "Wristwatch",
+    "Description": "Elegant wristwatch with stainless steel band",
+    "Price": 40,
+    "Category": "Accessories",
+    "Brand": "Timeless"
+  },
+  {
+    "ProductID": "P022",
+    "Name": "Electric Fan",
+    "Description": "Oscillating fan with 3 speed settings",
+    "Price": 45,
+    "Category": "Home Appliances",
+    "Brand": "BreezeTech"
+  },
+  {
+    "ProductID": "P023",
+    "Name": "Microwave Oven",
+    "Description": "Compact microwave oven for quick cooking",
+    "Price": 70,
+    "Category": "Kitchen Appliances",
+    "Brand": "HeatQuick"
+  },
+  {
+    "ProductID": "P025",
+    "Name": "Headphones",
+    "Description": "Noise-cancelling over-ear headphones",
+    "Price": 80,
+    "Category": "Electronics",
+    "Brand": "SoundBeats"
+  },
+  {
+    "ProductID": "P026",
+    "Name": "Water Bottle",
+    "Description": "Insulated stainless steel water bottle",
+    "Price": 15,
+    "Category": "Fitness",
+    "Brand": "HydroFlow"
+  },
+  {
+    "ProductID": "P028",
+    "Name": "Wireless Charger",
+    "Description": "Fast wireless charging pad",
+    "Price": 20,
+    "Category": "Electronics",
+    "Brand": "ChargePlus"
+  },
+  {
+    "ProductID": "P029",
+    "Name": "Notebook",
+    "Description": "Hardcover notebook with lined pages",
+    "Price": 5,
+    "Category": "Stationery",
+    "Brand": "WriteWise"
+  },
+  {
+    "ProductID": "P030",
+    "Name": "Coffee Maker",
+    "Description": "Automatic coffee maker with timer",
+    "Price": 65,
+    "Category": "Kitchen Appliances",
+    "Brand": "CoffeeMaster"
+  },
+  {
+    "ProductID": "P032",
+    "Name": "Wireless Mouse",
+    "Description": "Ergonomic wireless mouse with USB receiver",
+    "Price": 10,
+    "Category": "Computers",
+    "Brand": "ClickEase"
+  },
+  {
+    "ProductID": "P034",
+    "Name": "Face Wash",
+    "Description": "Refreshing face wash for daily use",
+    "Price": 10,
+    "Category": "Personal Care",
+    "Brand": "GlowUp"
+  },
+  {
+    "ProductID": "P036",
+    "Name": "Fitness Tracker",
+    "Description": "Wearable fitness tracker with heart rate monitor",
+    "Price": 55,
+    "Category": "Fitness",
+    "Brand": "FitTrack"
+  },
+  {
+    "ProductID": "P037",
+    "Name": "Fragrance Spray",
+    "Description": "Long-lasting body spray",
+    "Price": 20,
+    "Category": "Personal Care",
+    "Brand": "AromaScent"
+  },
+  {
+    "ProductID": "P039",
+    "Name": "Winter Jacket",
+    "Description": "Insulated winter jacket for cold weather",
+    "Price": 100,
+    "Category": "Apparel",
+    "Brand": "WarmWear"
+  },
+  {
+    "ProductID": "P041",
+    "Name": "Smart Thermostat",
+    "Description": "Smart thermostat with app control",
+    "Price": 90,
+    "Category": "Home Appliances",
+    "Brand": "ThermoSmart"
+  },
+  {
+    "ProductID": "P043",
+    "Name": "Hand Cream",
+    "Description": "Moisturizing hand cream",
+    "Price": 10,
+    "Category": "Personal Care",
+    "Brand": "SoftTouch"
+  },
+  {
+    "ProductID": "P045",
+    "Name": "Action Camera",
+    "Description": "Waterproof action camera with 4K recording",
+    "Price": 75,
+    "Category": "Electronics",
+    "Brand": "AdventureCam"
+  },
+  {
+    "ProductID": "P046",
+    "Name": "Yoga Blocks",
+    "Description": "Foam yoga blocks for support",
+    "Price": 15,
+    "Category": "Fitness",
+    "Brand": "YogaEssence"
+  },
+  {
+    "ProductID": "P048",
+    "Name": "Bike Helmet",
+    "Description": "Lightweight bike helmet with adjustable strap",
+    "Price": 35,
+    "Category": "Sports",
+    "Brand": "SafeRide"
+  },
+  {
+    "ProductID": "P050",
+    "Name": "Tablet",
+    "Description": "10-inch tablet with 64GB storage",
+    "Price": 85,
+    "Category": "Electronics",
+    "Brand": "TabWorld"
+  },
+  {
+    "ProductID": "P052",
+    "Name": "Camping Tent",
+    "Description": "2-person waterproof camping tent",
+    "Price": 55,
+    "Category": "Outdoor",
+    "Brand": "CampCo"
+  },
+  {
+    "ProductID": "P054",
+    "Name": "Ski Gloves",
+    "Description": "Insulated ski gloves for winter sports",
+    "Price": 20,
+    "Category": "Apparel",
+    "Brand": "SnowGuard"
+  },
+  {
+    "ProductID": "P056",
+    "Name": "Deodorant",
+    "Description": "Long-lasting antiperspirant deodorant",
+    "Price": 5,
+    "Category": "Personal Care",
+    "Brand": "FreshStay"
+  }
+]

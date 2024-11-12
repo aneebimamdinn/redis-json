@@ -1,0 +1,330 @@
+[
+    {
+      "ProductID": "P001",
+      "Name": "Egg",
+      "Description": "Fresh organic eggs",
+      "Price": 5,
+      "Category": "Dairy",
+      "Brand": "FarmFresh"
+    },
+    {
+      "ProductID": "P003",
+      "Name": "Laptop",
+      "Description": "14-inch laptop with 8GB RAM and 256GB SSD",
+      "Price": 75,
+      "Category": "Electronics",
+      "Brand": "TechGear"
+    },
+    {
+      "ProductID": "P005",
+      "Name": "Toothpaste",
+      "Description": "Whitening toothpaste with fluoride",
+      "Price": 10,
+      "Category": "Personal Care",
+      "Brand": "SmileBright"
+    },
+    {
+      "ProductID": "P008",
+      "Name": "Chocolate",
+      "Description": "Dark chocolate bar",
+      "Price": 5,
+      "Category": "Snacks",
+      "Brand": "ChocoDelight"
+    },
+    {
+      "ProductID": "P010",
+      "Name": "Vacuum Cleaner",
+      "Description": "High-power vacuum cleaner with HEPA filter",
+      "Price": 80,
+      "Category": "Home Appliances",
+      "Brand": "CleanHouse"
+    },
+    {
+      "ProductID": "P012",
+      "Name": "Running Shoes",
+      "Description": "Lightweight running shoes for all terrain",
+      "Price": 60,
+      "Category": "Footwear",
+      "Brand": "SpeedFit"
+    },
+    {
+      "ProductID": "P015",
+      "Name": "Table Lamp",
+      "Description": "LED table lamp with dimmable light",
+      "Price": 25,
+      "Category": "Home Decor",
+      "Brand": "BrightHome"
+    },
+    {
+      "ProductID": "P016",
+      "Name": "Yoga Mat",
+      "Description": "Non-slip yoga mat",
+      "Price": 20,
+      "Category": "Fitness",
+      "Brand": "FitGear"
+    },
+    {
+      "ProductID": "P017",
+      "Name": "Bluetooth Speaker",
+      "Description": "Portable Bluetooth speaker with deep bass",
+      "Price": 35,
+      "Category": "Electronics",
+      "Brand": "SoundWave"
+    },
+    {
+      "ProductID": "P018",
+      "Name": "Sunglasses",
+      "Description": "UV protection sunglasses with stylish design",
+      "Price": 15,
+      "Category": "Accessories",
+      "Brand": "SunShade"
+    },{
+        "ProductID": "P020",
+        "Name": "Smartphone",
+        "Description": "5.5-inch screen, 128GB storage, 4GB RAM",
+        "Price": 50,
+        "Category": "Electronics",
+        "Brand": "TechGear"
+    },
+    {
+        "ProductID": "P021",
+        "Name": "Wireless Mouse",
+        "Description": "Ergonomic wireless mouse with USB receiver",
+        "Price": 15,
+        "Category": "Electronics",
+        "Brand": "TechGear"
+    },
+    {
+        "ProductID": "P022",
+        "Name": "Milk",
+        "Description": "Fresh organic whole milk",
+        "Price": 6,
+        "Category": "Dairy",
+        "Brand": "FarmFresh"
+    },
+    {
+        "ProductID": "P023",
+        "Name": "Shampoo",
+        "Description": "Herbal shampoo for all hair types",
+        "Price": 12,
+        "Category": "Personal Care",
+        "Brand": "SmileBright"
+    },
+    {
+        "ProductID": "P024",
+        "Name": "Cookies",
+        "Description": "Assorted chocolate chip cookies",
+        "Price": 10,
+        "Category": "Snacks",
+        "Brand": "ChocoDelight"
+    },
+    {
+        "ProductID": "P025",
+        "Name": "Microwave Oven",
+        "Description": "Compact microwave oven with 700W power",
+        "Price": 75,
+        "Category": "Home Appliances",
+        "Brand": "CleanHouse"
+    },
+    {
+        "ProductID": "P026",
+        "Name": "Running Socks",
+        "Description": "Breathable running socks for comfort",
+        "Price": 10,
+        "Category": "Footwear",
+        "Brand": "SpeedFit"
+    },
+    {
+        "ProductID": "P027",
+        "Name": "Ceiling Fan",
+        "Description": "Energy-efficient ceiling fan with remote control",
+        "Price": 45,
+        "Category": "Home Decor",
+        "Brand": "BrightHome"
+    },
+    {
+        "ProductID": "P028",
+        "Name": "Resistance Bands",
+        "Description": "Set of 3 resistance bands for home workouts",
+        "Price": 18,
+        "Category": "Fitness",
+        "Brand": "FitGear"
+    },
+    {
+        "ProductID": "P029",
+        "Name": "Smart Watch",
+        "Description": "Waterproof smart watch with fitness tracking",
+        "Price": 50,
+        "Category": "Electronics",
+        "Brand": "SoundWave"
+    },
+    {
+        "ProductID": "P030",
+        "Name": "Wall Clock",
+        "Description": "Modern design wall clock with large digits",
+        "Price": 15,
+        "Category": "Home Decor",
+        "Brand": "BrightHome"
+    },
+    {
+        "ProductID": "P031",
+        "Name": "Socks",
+        "Description": "Pack of 3 cotton socks for everyday wear",
+        "Price": 5,
+        "Category": "Footwear",
+        "Brand": "SpeedFit"
+    },
+    {
+        "ProductID": "P032",
+        "Name": "Instant Coffee",
+        "Description": "Rich instant coffee mix with creamy texture",
+        "Price": 8,
+        "Category": "Snacks",
+        "Brand": "ChocoDelight"
+    },
+    {
+        "ProductID": "P033",
+        "Name": "Camera",
+        "Description": "Digital camera with 20MP sensor and zoom lens",
+        "Price": 85,
+        "Category": "Electronics",
+        "Brand": "TechGear"
+    },
+    {
+        "ProductID": "P034",
+        "Name": "Refrigerator",
+        "Description": "Double-door refrigerator with energy-saving mode",
+        "Price": 100,
+        "Category": "Home Appliances",
+        "Brand": "CleanHouse"
+    },
+    {
+        "ProductID": "P035",
+        "Name": "Dryer",
+        "Description": "Compact clothes dryer for small apartments",
+        "Price": 60,
+        "Category": "Home Appliances",
+        "Brand": "CleanHouse"
+    },
+    {
+        "ProductID": "P036",
+        "Name": "Blender",
+        "Description": "High-speed blender for smoothies and shakes",
+        "Price": 40,
+        "Category": "Home Appliances",
+        "Brand": "CleanHouse"
+    },
+    {
+        "ProductID": "P037",
+        "Name": "Electric Kettle",
+        "Description": "Quick-boil electric kettle with auto shut-off",
+        "Price": 30,
+        "Category": "Home Appliances",
+        "Brand": "CleanHouse"
+    },
+    {
+        "ProductID": "P038",
+        "Name": "T-shirt",
+        "Description": "Comfortable cotton T-shirt in various sizes",
+        "Price": 12,
+        "Category": "Footwear",
+        "Brand": "SpeedFit"
+    },
+    {
+        "ProductID": "P039",
+        "Name": "Jeans",
+        "Description": "Slim-fit denim jeans with a modern look",
+        "Price": 35,
+        "Category": "Footwear",
+        "Brand": "SpeedFit"
+    },
+    {
+        "ProductID": "P040",
+        "Name": "Jacket",
+        "Description": "Warm winter jacket with fur lining",
+        "Price": 55,
+        "Category": "Footwear",
+        "Brand": "SpeedFit"
+    },
+    {
+        "ProductID": "P041",
+        "Name": "Scissors",
+        "Description": "Durable steel scissors for home use",
+        "Price": 7,
+        "Category": "Home Decor",
+        "Brand": "BrightHome"
+    },
+    {
+        "ProductID": "P042",
+        "Name": "Pillows",
+        "Description": "Set of 2 soft pillows for comfort",
+        "Price": 22,
+        "Category": "Home Decor",
+        "Brand": "BrightHome"
+    },
+    {
+        "ProductID": "P043",
+        "Name": "Camera Tripod",
+        "Description": "Portable tripod for stable photography",
+        "Price": 35,
+        "Category": "Electronics",
+        "Brand": "TechGear"
+    },
+    {
+        "ProductID": "P044",
+        "Name": "Washing Machine",
+        "Description": "Front-load washing machine with 10kg capacity",
+        "Price": 85,
+        "Category": "Home Appliances",
+        "Brand": "CleanHouse"
+    },
+    {
+        "ProductID": "P045",
+        "Name": "Fan",
+        "Description": "Stand fan with adjustable height and oscillation",
+        "Price": 35,
+        "Category": "Home Decor",
+        "Brand": "BrightHome"
+    },
+    {
+        "ProductID": "P046",
+        "Name": "Hair Dryer",
+        "Description": "Professional hair dryer with multiple speed settings",
+        "Price": 45,
+        "Category": "Personal Care",
+        "Brand": "SmileBright"
+    },
+    {
+        "ProductID": "P047",
+        "Name": "Bluetooth Headphones",
+        "Description": "Wireless headphones with noise-canceling feature",
+        "Price": 60,
+        "Category": "Electronics",
+        "Brand": "SoundWave"
+    },
+    {
+        "ProductID": "P048",
+        "Name": "Power Bank",
+        "Description": "Portable power bank with 10000mAh capacity",
+        "Price": 20,
+        "Category": "Electronics",
+        "Brand": "TechGear"
+    },
+    {
+        "ProductID": "P049",
+        "Name": "Ice Cream Maker",
+        "Description": "Automatic ice cream maker with multiple flavors",
+        "Price": 70,
+        "Category": "Home Appliances",
+        "Brand": "CleanHouse"
+    },
+    {
+        "ProductID": "P050",
+        "Name": "Couch",
+        "Description": "Modern sectional couch with plush cushions",
+        "Price": 90,
+        "Category": "Home Decor",
+        "Brand": "BrightHome"
+    }
+  ]
+  

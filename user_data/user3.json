@@ -1,0 +1,258 @@
+[
+  {
+    "ProductID": "P002",
+    "Name": "Milk",
+    "Description": "Fresh whole milk",
+    "Price": 15,
+    "Category": "Dairy",
+    "Brand": "MilkFarm"
+  },
+  {
+    "ProductID": "P003",
+    "Name": "Eggs",
+    "Description": "Farm fresh eggs",
+    "Price": 20,
+    "Category": "Dairy",
+    "Brand": "FarmFresh"
+  },
+  {
+    "ProductID": "P005",
+    "Name": "Tyre",
+    "Description": "Durable rubber tyres for vehicles",
+    "Price": 50,
+    "Category": "Automotive",
+    "Brand": "AutoTyre"
+  },
+  {
+    "ProductID": "P007",
+    "Name": "Biscuits",
+    "Description": "Crunchy biscuits with chocolate chips",
+    "Price": 10,
+    "Category": "Snacks",
+    "Brand": "CrunchTime"
+  },
+  {
+    "ProductID": "P008",
+    "Name": "T-shirt",
+    "Description": "Cotton T-shirt in multiple colors",
+    "Price": 30,
+    "Category": "Apparel",
+    "Brand": "WearFit"
+  },
+  {
+    "ProductID": "P010",
+    "Name": "Washing Machine",
+    "Description": "Automatic washing machine with energy-saving features",
+    "Price": 75,
+    "Category": "Home Appliances",
+    "Brand": "WashMaster"
+  },
+  {
+    "ProductID": "P012",
+    "Name": "Fridge",
+    "Description": "Double-door refrigerator with cooling technology",
+    "Price": 95,
+    "Category": "Home Appliances",
+    "Brand": "CoolMaster"
+  },
+  {
+    "ProductID": "P013",
+    "Name": "Blender",
+    "Description": "High-speed blender for smoothies and shakes",
+    "Price": 60,
+    "Category": "Kitchen Appliances",
+    "Brand": "BlendMax"
+  },
+  {
+    "ProductID": "P014",
+    "Name": "Backpack",
+    "Description": "Durable backpack with multiple compartments",
+    "Price": 40,
+    "Category": "Accessories",
+    "Brand": "TravelGear"
+  },
+  {
+    "ProductID": "P016",
+    "Name": "Headphones",
+    "Description": "Noise-cancelling over-ear headphones",
+    "Price": 80,
+    "Category": "Electronics",
+    "Brand": "SoundBeats"
+  },
+  {
+    "ProductID": "P017",
+    "Name": "Microwave",
+    "Description": "Compact microwave for fast cooking",
+    "Price": 60,
+    "Category": "Kitchen Appliances",
+    "Brand": "QuickHeat"
+  },
+  {
+    "ProductID": "P018",
+    "Name": "Smartwatch",
+    "Description": "Stylish smartwatch with fitness tracking",
+    "Price": 85,
+    "Category": "Electronics",
+    "Brand": "SmartFit"
+  },
+  {
+    "ProductID": "P020",
+    "Name": "Wristwatch",
+    "Description": "Elegant wristwatch with stainless steel band",
+    "Price": 40,
+    "Category": "Accessories",
+    "Brand": "Timeless"
+  },
+  {
+    "ProductID": "P022",
+    "Name": "Electric Fan",
+    "Description": "Oscillating fan with 3 speed settings",
+    "Price": 50,
+    "Category": "Home Appliances",
+    "Brand": "BreezeTech"
+  },
+  {
+    "ProductID": "P023",
+    "Name": "Microwave Oven",
+    "Description": "Compact microwave oven for quick cooking",
+    "Price": 70,
+    "Category": "Kitchen Appliances",
+    "Brand": "HeatQuick"
+  },
+  {
+    "ProductID": "P025",
+    "Name": "Wireless Earbuds",
+    "Description": "Compact wireless earbuds with high sound quality",
+    "Price": 40,
+    "Category": "Electronics",
+    "Brand": "EarBeats"
+  },
+  {
+    "ProductID": "P026",
+    "Name": "Water Bottle",
+    "Description": "Insulated stainless steel water bottle",
+    "Price": 20,
+    "Category": "Fitness",
+    "Brand": "HydroFlow"
+  },
+  {
+    "ProductID": "P027",
+    "Name": "Toaster",
+    "Description": "Automatic pop-up toaster with multiple browning levels",
+    "Price": 25,
+    "Category": "Kitchen Appliances",
+    "Brand": "ToastMaster"
+  },
+  {
+    "ProductID": "P029",
+    "Name": "Notebook",
+    "Description": "Hardcover notebook with lined pages",
+    "Price": 10,
+    "Category": "Stationery",
+    "Brand": "WriteWise"
+  },
+  {
+    "ProductID": "P031",
+    "Name": "Power Bank",
+    "Description": "Portable power bank with 10,000mAh capacity",
+    "Price": 30,
+    "Category": "Electronics",
+    "Brand": "PowerPlus"
+  },
+  {
+    "ProductID": "P032",
+    "Name": "Wireless Mouse",
+    "Description": "Ergonomic wireless mouse with USB receiver",
+    "Price": 15,
+    "Category": "Computers",
+    "Brand": "ClickEase"
+  },
+  {
+    "ProductID": "P033",
+    "Name": "Face Mask",
+    "Description": "Reusable face mask with adjustable straps",
+    "Price": 5,
+    "Category": "Health",
+    "Brand": "SafeWear"
+  },
+  {
+    "ProductID": "P034",
+    "Name": "Face Wash",
+    "Description": "Refreshing face wash for daily use",
+    "Price": 10,
+    "Category": "Personal Care",
+    "Brand": "GlowUp"
+  },
+  {
+    "ProductID": "P035",
+    "Name": "Knee Pads",
+    "Description": "Protective knee pads for sports and activities",
+    "Price": 25,
+    "Category": "Sports",
+    "Brand": "SafeSport"
+  },
+  {
+    "ProductID": "P036",
+    "Name": "Fitness Tracker",
+    "Description": "Wearable fitness tracker with heart rate monitor",
+    "Price": 60,
+    "Category": "Fitness",
+    "Brand": "FitTrack"
+  },
+  {
+    "ProductID": "P037",
+    "Name": "Fragrance Spray",
+    "Description": "Long-lasting body spray",
+    "Price": 15,
+    "Category": "Personal Care",
+    "Brand": "AromaScent"
+  },
+  {
+    "ProductID": "P038",
+    "Name": "Bike Lock",
+    "Description": "Heavy-duty bike lock with key",
+    "Price": 30,
+    "Category": "Sports",
+    "Brand": "LockSafe"
+  },
+  {
+    "ProductID": "P040",
+    "Name": "Electric Toothbrush",
+    "Description": "Powerful electric toothbrush with multiple modes",
+    "Price": 45,
+    "Category": "Personal Care",
+    "Brand": "BrushPro"
+  },
+  {
+    "ProductID": "P041",
+    "Name": "Smart Thermostat",
+    "Description": "Smart thermostat with app control",
+    "Price": 90,
+    "Category": "Home Appliances",
+    "Brand": "ThermoSmart"
+  },
+  {
+    "ProductID": "P042",
+    "Name": "Sunglasses",
+    "Description": "Polarized sunglasses with UV protection",
+    "Price": 35,
+    "Category": "Accessories",
+    "Brand": "SunnyView"
+  },
+  {
+    "ProductID": "P043",
+    "Name": "Hand Cream",
+    "Description": "Moisturizing hand cream",
+    "Price": 12,
+    "Category": "Personal Care",
+    "Brand": "SoftTouch"
+  },
+  {
+    "ProductID": "P045",
+    "Name": "Action Camera",
+    "Description": "Waterproof action camera with 4K recording",
+    "Price": 75,
+    "Category": "Electronics",
+    "Brand": "AdventureCam"
+  }
+]
